@@ -1,8 +1,2 @@
-dispatcher_api:
-  ~/dispatcher/dispatcher_api
-
-dispatcher_web:
-  ~/dispatcher/dispatcher-web-app-ui
-
-thumbster:
-  ~/thumbster/thumbster-connect
+killer_app:
+  ~/killer-app

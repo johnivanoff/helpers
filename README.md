@@ -6,8 +6,8 @@
 This is a list of local git repositories you would like to user for these helper commands.
 
 ```yml
-dispatcher_api:
-  ~/dispatcher/dispatcher_api
+killer_app:
+  ~/killer_app
 ```
 
 ## Commands
@@ -29,6 +29,6 @@ Output
 ┌──────────────────────┬────────────────────────────────┐
 │ repo                 │ branch                         │
 ├──────────────────────┼────────────────────────────────┤
-│ dispatcher_api       │ main                           │
+│ killer_app           │ main                           │
 └──────────────────────┴────────────────────────────────┘
 ```
