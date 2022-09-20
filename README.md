@@ -18,7 +18,7 @@ Run the command in the helper folder...
 
 
 ### Current Branches
-This will return a list of the repositoriesfrom the repos.yml file with the name of the current branch.
+This will return a list of the repositories from the repos.yml file with the name of the current branch.
 
 ```shell
 ruby current_branches.rb
