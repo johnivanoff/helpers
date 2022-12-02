@@ -1,6 +1,6 @@
 # List current branches
-require "./lib/branches"
-require 'yaml'
+require(File.expand_path("./lib/branches", File.dirname(__FILE__)))
+require "yaml"
 require "git"
 
 Branches.list

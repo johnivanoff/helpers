@@ -1,7 +1,7 @@
 module Branches
   class << self
     def list
-      repos = YAML.load_file("repos.yml")
+      repos = YAML.load_file(File.expand_path("../repos.yml", File.dirname(__FILE__)))
       puts ""
       puts "┌──────────────────────┬────────────────────────────────┐"
       puts "│ repo                 │ branch                         │"
